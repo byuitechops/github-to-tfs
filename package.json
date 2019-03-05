@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
-    "https": "^1.0.0",
     "json2csv": "^4.3.5",
     "request-promise": "^4.2.4"
   }
