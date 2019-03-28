@@ -4,13 +4,16 @@
   "description": "",
   "main": "repos.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node repos.js",
+    "import": "node puppeteer.js"
   },
   "author": "Emma Fisher",
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
     "json2csv": "^4.3.5",
+    "puppeteer": "^1.13.0",
     "request-promise": "^4.2.4"
   }
 }
