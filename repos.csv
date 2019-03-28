@@ -219,7 +219,7 @@
 "do-you-know-the-async-node-pattern","https://github.com/byuitechops/do-you-know-the-async-node-pattern.git",0,"https://github.com/byuitechops/do-you-know-the-async-node-pattern"
 "logger","https://github.com/byuitechops/logger.git",1,"https://github.com/byuitechops/logger"
 "course-sync-blueprint","https://github.com/byuitechops/course-sync-blueprint.git",0,"https://github.com/byuitechops/course-sync-blueprint"
-"byui-canvas-theme","https://github.com/byuitechops/byui-canvas-theme.git",24,"https://github.com/byuitechops/byui-canvas-theme"
+"byui-canvas-theme","https://github.com/byuitechops/byui-canvas-theme.git",22,"https://github.com/byuitechops/byui-canvas-theme"
 "canvas-quiz-search-tool","https://github.com/byuitechops/canvas-quiz-search-tool.git",0,"https://github.com/byuitechops/canvas-quiz-search-tool"
 "fix-canvas-quizzes-with-update-hack","https://github.com/byuitechops/fix-canvas-quizzes-with-update-hack.git",1,"https://github.com/byuitechops/fix-canvas-quizzes-with-update-hack"
 "course-make-backup","https://github.com/byuitechops/course-make-backup.git",0,"https://github.com/byuitechops/course-make-backup"
@@ -314,3 +314,4 @@
 "read-in-csv","https://github.com/byuitechops/read-in-csv.git",0,"https://github.com/byuitechops/read-in-csv"
 "canvas-cross-list","https://github.com/byuitechops/canvas-cross-list.git",0,"https://github.com/byuitechops/canvas-cross-list"
 "github-to-tfs","https://github.com/byuitechops/github-to-tfs.git",0,"https://github.com/byuitechops/github-to-tfs"
+"test-repo","https://github.com/byuitechops/test-repo.git",0,"https://github.com/byuitechops/test-repo"
