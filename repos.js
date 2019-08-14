@@ -12,7 +12,7 @@ function getUserRepos(uri, repos) {
         "json": true,
         "resolveWithFullResponse": true,
         "headers": {
-            "User-Agent": "emmafisher1720"
+            "User-Agent": "sbolande"
         }
     }).then(function (response) {
         /* If the arrat repos doesn't exist (the first time the call is made), create it */
