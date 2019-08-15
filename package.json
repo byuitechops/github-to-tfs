@@ -14,7 +14,9 @@
     "azure-devops-node-api": "^9.0.1",
     "d3-dsv": "^1.1.1",
     "fs": "0.0.1-security",
+    "github-api": "^3.2.2",
     "json2csv": "^4.3.5",
+    "p-map": "^3.0.0",
     "puppeteer": "^1.13.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
